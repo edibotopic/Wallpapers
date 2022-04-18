@@ -18,7 +18,7 @@ The original collection was mostly landscapes. For some reason images of people 
 
 ## Ownership
 
-If you find an image hosted on this repository that is yours please contact me if you want me to include a credit or rmove the image completely. 
+If you find an image hosted on this repository that is yours please contact me if you want me to include a credit or remove the image completely. 
 
 ## Contributing
 
